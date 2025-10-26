@@ -32,5 +32,5 @@ Each project integrates **Groq AI** for advanced reasoning, personalization, and
 ## 🔗 Author
 **Arkananta Automation Studio**  
 Crafting smart, elegant automations that move business forward.  
-📧 Contact: [dayzanazhararkananta@gmail.com]  
+📧 Contact: dayzanazhararkananta@gmail.com  
 🌐 Portfolio: [yourwebsite.com]
