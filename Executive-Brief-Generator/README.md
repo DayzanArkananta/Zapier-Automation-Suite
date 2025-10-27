@@ -31,4 +31,4 @@ The summary is sent to **Telegram** before the workday begins.
 
 ---
 
-## 🧩 [Example Telegram Message](./telegram_brief_example.png)
+## 🧩 [Example Telegram Message](./telegram_brief_example2.png)
