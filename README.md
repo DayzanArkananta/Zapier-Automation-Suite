@@ -48,4 +48,3 @@ The collection covers real-world business processes — from managing client com
 **Arkananta Automation Studio**  
 Crafting clean, reliable automation systems for creative and data-driven teams.  
 📧 dayzanazhararkananta@gmail.com  
-🌐 [yourwebsite.com]
