@@ -32,4 +32,4 @@ Whenever a new email arrives containing relevant business keywords like “Order
 
 ---
 
-## 🧩 Example Output (Slack)
+## 🧩 [Example Output (Slack)](./example_output_slack.png)
